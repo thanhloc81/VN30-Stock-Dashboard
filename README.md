@@ -20,4 +20,10 @@ within the financial module.
 - **Azure Data Blob Storage:** Store Data in cloud
 - **PowerBI:** Visualization.
 
+## Process:
+- Process visualization and connection verification between Databricks and Azure Blob Storage is crucial.
+- Azure Key Vault used for securing secrets (e.g., Databricks’s secret scope, Azure Blob Storage’s account key).
+- ETL process involves extracting data from vnstock3, transforming with Python, and storing in warehouse.
+- Data updated daily at 6AM for PowerBI integration to create updated dashboards.
 
+![BI Process drawio](https://github.com/thanhloc81/VN30-Stock-Dashboard/assets/151768013/e4c8de04-e9a3-4353-a1b1-874cf6c9185a)
