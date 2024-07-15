@@ -1,5 +1,5 @@
 # VN30-Stock-Dashboard
-### [View the Dashboard](https://project.novypro.com/4JPpvp)
+<a href="https://project.novypro.com/4JPpvp" target="_blank"> Click here to View the Dashboard!</a>
 
 ## Introduction:
 VIB Bank - one of the leading banks in Vietnam, wants to assess the situation of
